@@ -4,3 +4,5 @@ html {
   height: 100%;
   font-family: 'Montserrat', sans-serif;
 }
+
+/*  NOTE: The width ad height settings at 100% ensure total page coverage and is suggested as a good practice */
